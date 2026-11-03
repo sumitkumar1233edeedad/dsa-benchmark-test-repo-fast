@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-benchmark-test-repo-fast",
   "total_target": 112,
-  "total_solved": 1,
-  "completion_percentage": 0.9,
+  "total_solved": 2,
+  "completion_percentage": 1.8,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 1,
-    "question": 2,
-    "folder_path": "day-01/level-01/question-02/"
+    "level": 2,
+    "question": 1,
+    "folder_path": "day-01/level-02/question-01/"
   },
   "solved_solutions": [
     {
@@ -19,8 +19,18 @@
       "title": "Find the Index of the First Minimum Element",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "be6cf4f97183d4890eaeffc212ce27d97cd1addb"
+    },
+    {
+      "day": 1,
+      "level": 1,
+      "question": 2,
+      "folder": "day-01/level-01/question-02/",
+      "title": "Find the First Local Maximum Index",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-11-03T09:14:46.818547+00:00"
+  "last_updated": "2026-11-03T10:03:13.317295+00:00"
 }
