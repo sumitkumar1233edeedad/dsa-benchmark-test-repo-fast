@@ -1,0 +1,26 @@
+{
+  "repository_name": "dsa-benchmark-test-repo-fast",
+  "total_target": 112,
+  "total_solved": 1,
+  "completion_percentage": 0.9,
+  "is_completed": false,
+  "current_pointer": {
+    "day": 1,
+    "level": 1,
+    "question": 2,
+    "folder_path": "day-01/level-01/question-02/"
+  },
+  "solved_solutions": [
+    {
+      "day": 1,
+      "level": 1,
+      "question": 1,
+      "folder": "day-01/level-01/question-01/",
+      "title": "Find the Index of the First Minimum Element",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
+      "commit_sha": ""
+    }
+  ],
+  "last_updated": "2026-11-03T09:14:46.818547+00:00"
+}
