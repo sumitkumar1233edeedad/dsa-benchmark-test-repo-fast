@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "repository_name": "dsa-benchmark-test-repo-fast",
   "year": 2026,
-  "iso_week": 45,
+  "iso_week": 46,
   "user": "admin",
   "daily_target": 16,
   "fixed_levels_per_day": 8,
