@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-benchmark-test-repo-fast",
   "total_target": 112,
-  "total_solved": 11,
-  "completion_percentage": 9.8,
+  "total_solved": 1,
+  "completion_percentage": 0.9,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 6,
+    "level": 1,
     "question": 2,
-    "folder_path": "day-01/level-06/question-02/"
+    "folder_path": "day-01/level-01/question-02/"
   },
   "solved_solutions": [
     {
@@ -16,111 +16,11 @@
       "level": 1,
       "question": 1,
       "folder": "day-01/level-01/question-01/",
-      "title": "Find the Index of the First Minimum Element",
+      "title": "Find First Occurrence of Target in Array",
       "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "be6cf4f97183d4890eaeffc212ce27d97cd1addb"
-    },
-    {
-      "day": 1,
-      "level": 1,
-      "question": 2,
-      "folder": "day-01/level-01/question-02/",
-      "title": "Find the First Local Maximum Index",
-      "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "80836a7e733331c93496bb59aa62fbabeb2f45cc"
-    },
-    {
-      "day": 1,
-      "level": 2,
-      "question": 1,
-      "folder": "day-01/level-02/question-01/",
-      "title": "Find the First Duplicate Element",
-      "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "60297387b4ea6497c1dd6217345b23245cdb3147"
-    },
-    {
-      "day": 1,
-      "level": 2,
-      "question": 2,
-      "folder": "day-01/level-02/question-02/",
-      "title": "Length of Longest Unique Prefix",
-      "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "9ef73fdce7164d47b16dd0b1c6ef6c186e20d0e8"
-    },
-    {
-      "day": 1,
-      "level": 3,
-      "question": 1,
-      "folder": "day-01/level-03/question-01/",
-      "title": "Partition Array by Parity",
-      "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "6e9f176a66cfb21a86c307e25e0af2c5b9683ee2"
-    },
-    {
-      "day": 1,
-      "level": 3,
-      "question": 2,
-      "folder": "day-01/level-03/question-02/",
-      "title": "Sort Array by Parity II",
-      "difficulty": "Easy",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "0c8e5d53cacdab558bbe5179afba6bb5a3c3a5c7"
-    },
-    {
-      "day": 1,
-      "level": 4,
-      "question": 1,
-      "folder": "day-01/level-04/question-01/",
-      "title": "Longest Subarray with Sum at Most K",
-      "difficulty": "Medium",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "759f344b26cca2afe4f5372ab56361cc5e1e3ff7"
-    },
-    {
-      "day": 1,
-      "level": 4,
-      "question": 2,
-      "folder": "day-01/level-04/question-02/",
-      "title": "Day 01 Level 04 Q02: Sliding Window Bounds (Twist-2)",
-      "difficulty": "Medium",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "e0f4552721f3a8441210910dbd2a974cac0acd8f"
-    },
-    {
-      "day": 1,
-      "level": 5,
-      "question": 1,
-      "folder": "day-01/level-05/question-01/",
-      "title": "Day 01 Level 05 Q01: Prefix & Suffix Transforms (Core)",
-      "difficulty": "Medium",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "750e797c839d765a9543fecd01b7a6834378b892"
-    },
-    {
-      "day": 1,
-      "level": 5,
-      "question": 2,
-      "folder": "day-01/level-05/question-02/",
-      "title": "Day 01 Level 05 Q02: Prefix & Suffix Transforms (Twist-2)",
-      "difficulty": "Medium",
-      "topic": "Arrays & Hashing",
-      "commit_sha": "30c33252317e2f796a8421215acd33aad8e26b8c"
-    },
-    {
-      "day": 1,
-      "level": 6,
-      "question": 1,
-      "folder": "day-01/level-06/question-01/",
-      "title": "Partition Array Around Pivot",
-      "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-11-20T08:32:55.326285+00:00"
+  "last_updated": "2026-11-20T10:06:00.268566+00:00"
 }
